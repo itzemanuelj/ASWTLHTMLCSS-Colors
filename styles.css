@@ -1,0 +1,95 @@
+/* 1. Fill in the blank. _____ #cc00cc; */
+a {
+    color: #cc00cc;
+}
+
+/* 2. When the color specification begins with #, how many more characters does it take to define the color? Answer with a numeral. */
+a.six {
+    color: aqua;
+}
+
+/* 3. Specifying the color of a stop signal, write the second line of a class definition, that is, the line that specifies text color. */
+a.stopsign {
+    color: red;
+}
+
+/* 4. Rewrite the following code so it's correct. */
+a.test {
+    color: 0000ff;
+}
+
+/* code onto the screen to create a class of heading named "standout" */
+h6.standout {
+    color: royalblue;
+}
+
+/* Create a class not tied to an element named "subdued" that colors text brown. */
+.subdued {
+    color: brown;
+}
+
+/* Create a class of paragraphs named "bright" that colors text #8b008b. */
+p.bright {
+    color: #8b008b;
+}
+
+/* 8. Create a class that isn't tied to an element that specifies any color you like. Create the color specification by using any combination of numbers 0 through 9 and a through f. Don't worry about what the actual color is. Make up the class name. */
+.greenclass {
+    color: #00FF00;
+}
+
+/* 9. Create a class of heading (your choice of size) that specifies CadetBlue for the text. (Mashing the two words together without a space isn't a typo. That's the name you need to use.) Make up the class name. */
+h5 {
+    color: CadetBlue;
+}
+
+/* 10. Write a paragraph including opening and closing tags and some text, assigning it the class "full_color". */
+p.full_color {
+    color: #000;
+}
+
+/* 11. Create a class that can be used for a section of text that specifies a common color by name. (HTML recognizes any color name that a typical 4-year-old knows.) Make up your own class name. */
+.class_name {
+    color: darkred;
+}
+
+/* 12. A class has been created specifying red text. Code a paragraph of more than 1 word that includes the word "red" and colors that word (and only that word) red. The class name is "shocking" */
+.shocking {
+    color: red;
+}
+
+/* Create a class of paragraphs named "bright" that colors text #8b008b. */
+p.bright {
+    color: #8b008b;
+}
+
+/* Create a class that isn't tied to an element that specifies any color you like. Create the color specification by using any combination of numbers 0 through 9 and a through f. Don't worry about what the actual color is. Make up the class name. */
+.random_class {
+    color: #848bb3;
+}
+
+/* Create a class of heading (your choice of size) that specifies CadetBlue for the text. (Mashing the two words together without a space isn't a typo. That's the name you need to use.) Make up the class name. */
+.blue_text {
+    color: cadetblue;
+}
+
+/* Write a paragraph including opening and closing tags and some text, assigning it the class "full_color". */
+p.full_color {
+    color: rgb(104, 59, 208);
+}
+
+/* Create a class that can be used for a section of text that specifies a common color by name. (HTML recognizes any color name that a typical 4-year-old knows.) Make up your own class name. */
+.random_color_class {
+    color: rgb(103, 126, 21);
+}
+
+/* A class has been created specifying red text. Code a paragraph of more than 1 word that includes the word "red" and colors that word (and only that word) red. The class name is "shocking" */
+
+h4.shocking {
+    color: red;
+}
+
+p.css_class {
+    color: tomato;
+    text-decoration: dashed;
+}
